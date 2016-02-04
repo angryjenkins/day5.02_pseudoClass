@@ -1,0 +1,19 @@
+.orderedList ol li:hover {
+	font-size: 36px;
+	color: red;
+}
+
+h1::first-letter {
+	font-size: 32px;
+	font-family: monospace;
+	color:red;
+}
+
+.text:first-letter {
+	color:yellow;
+}
+
+button:focus {
+	background-color: black;
+	color:white;
+}
